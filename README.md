@@ -23,6 +23,9 @@ The primary objectives of this analysis are:
 
 #### 1. Salary Trends Over the Years
 * **Analysis:** A line plot was used to analyze the growth of average salaries from 2020 to 2023.
+
+  ![](images/Screenshot%202024-11-30%132717.png)
+  
 * **Findings:**
   * In 2020, the average salary was approximately $80,000.
   * By 2023, the average salary had risen to over $120,000, reflecting a nearly 50% increase in four years.
@@ -30,6 +33,9 @@ The primary objectives of this analysis are:
 
 #### 2. Job Title Distribution
 * **Analysis:** A bar chart was used to visualize the frequency of different job titles in the dataset.
+
+  ![](images/Screenshot%202024-11-30%20132522.png)
+  
 * **Findings:**
   * Most Common Roles: Data Scientist and Machine Learning Engineer were the most frequent roles.
   * Less Common Roles: Specialized roles like Cloud Engineer and Data Architect were less represented.
@@ -37,13 +43,19 @@ The primary objectives of this analysis are:
 
 #### 3. Salary Distribution by Job Title
 * **Analysis:** A bar chart was created to compare the average salaries for each job title.
+
+  ![](images/Screenshot%202024-11-30%20132632.png)
+  
 * **Findings:**
   * Top-Paying Roles: Data Analytics Lead(405,000) and Principal Data Engineer(328,333) had the highest average salaries.
   * Lower-Paying Roles: 3D Computer Vision Researcher(5,409) had lower average salaries.
 * **Visualization:** [Insert bar chart here]
 
 #### 4. Salary Trends by Country
-* **Analysis:** A line chart was used to compare average salaries across countries over the years.
+* **Analysis:** A line chart was used to compare average salaries by countries.
+
+  ![](images/Screenshot%202024-11-30%20132757.png)
+  
 * **Findings:**
   * Highest Salaries: The USA led consistently.
   * Lowest Salaries: Developing countries showed lower salary levels.
@@ -51,6 +63,9 @@ The primary objectives of this analysis are:
 
 #### 5. Employment Type Analysis
 * **Analysis:** A scatter plot visualized the salary distribution for different employment types.
+
+  ![](images/Screenshot%202024-11-30%20132924.png)
+  
 * **Findings:**
   * Full-Time roles were the most common with a wide salary range.
   * Freelance roles had lower average salaries.
@@ -59,6 +74,9 @@ The primary objectives of this analysis are:
 
 #### 6. Average Salary by Experience Level
 * **Analysis:** A bar chart compared average salaries across experience levels.
+
+  ![](images/Screenshot%202024-11-30%20132944.png)
+  
 * **Findings:**
   * Senior-level roles had the highest average salaries.
   * Mid-level roles had moderate compensation.
