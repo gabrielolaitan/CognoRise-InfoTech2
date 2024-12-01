@@ -38,8 +38,8 @@ The primary objectives of this analysis are:
 #### 3. Salary Distribution by Job Title
 * **Analysis:** A bar chart was created to compare the average salaries for each job title.
 * **Findings:**
-  * Top-Paying Roles: Machine Learning Engineer and Data Engineer had the highest average salaries.
-  * Lower-Paying Roles: Data Analysts had lower average salaries.
+  * Top-Paying Roles: Data Analytics Lead(405,000) and Principal Data Engineer(328,333) had the highest average salaries.
+  * Lower-Paying Roles: 3D Computer Vision Researcher(5,409) had lower average salaries.
 * **Visualization:** [Insert bar chart here]
 
 #### 4. Salary Trends by Country
