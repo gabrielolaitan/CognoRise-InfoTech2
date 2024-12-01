@@ -24,7 +24,7 @@ The primary objectives of this analysis are:
 #### 1. Salary Trends Over the Years
 * **Analysis:** A line plot was used to analyze the growth of average salaries from 2020 to 2023.
 
-  ![](images/Screenshot%202024-11-30%132717.png)
+  ![](images/Screenshot%202024-11-30%20132717.png)
   
 * **Findings:**
   * In 2020, the average salary was approximately $80,000.
