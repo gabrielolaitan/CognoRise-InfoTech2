@@ -17,7 +17,10 @@ The primary objectives of this analysis are:
 * Provide actionable insights
 
 ### Data Loading and Cleaning
-[Briefly describe the data loading and cleaning process]
+The dataset underwent a thorough cleaning process:  
+- Verified and handled missing values. No missing values was found.  
+- Duplicates. No Duplicate was found.  
+- Standardized data formats for consistency.    
 
 ### Stages of Analysis
 
